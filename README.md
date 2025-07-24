@@ -17,7 +17,7 @@
 <h3>🌐 API Used</h3>
 <p>✅ Kanye REST API</p>
 <ul>
-  <il><strong>URL:</strong> <a href="https://api.kanye.rest/" target="_blank">https://api.kanye.rest/</a></il>
+  <li><strong>URL:</strong> <a   href="https://api.kanye.rest/" target="_blank">https://api.kanye.rest/</a></li>
   <li><strong>Purpose:</strong> Returns a random Kanye West quote in JSON format.</li>
   <li><strong>No authentication required:</strong> Free and public.</li><br>
   <p><strong>Example Response:</strong><br>
