@@ -6,12 +6,12 @@
   <li>tkinter
     <ul>
       <li>Provides tools to build the graphical user interface (GUI), including the window, button, canvas, and text elements.</li>
-      <li><p><strong>Documentation:</strong></p><a href="https://docs.python.org/3/library/tkinter.html" target="_blank">https://docs.python.org/3/library/tkinter.html</a></li>
+      <li><strong>Documentation:</strong><a href="https://docs.python.org/3/library/tkinter.html" target="_blank">https://docs.python.org/3/library/tkinter.html</a></li>
   </li>
     <li>request
       <ul>
         <li><strong>Purpose:</strong> Sends a GET request to the Kanye REST API to fetch a random quote.</li>
-        <li><p><strong>Documentation:</strong></p><a href="https://docs.python-requests.org" target="_blank">https://docs.python-requests.org</a></li>
+        <li><strong>Documentation:</strong><a href="https://docs.python-requests.org" target="_blank">https://docs.python-requests.org</a></li>
     </li>
 </ol>
 <h3>🌐 API Used</h3>
